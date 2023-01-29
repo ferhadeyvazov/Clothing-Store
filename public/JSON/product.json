@@ -1,0 +1,146 @@
+[
+    {   
+        "id": 1,
+        "brand": "Avva",
+        "price": 24,
+        "discount": 40,
+        "brand_name": "Beyaz Polo Yaka Slim Fit",
+        "description": "%100 Pamuk Basic T-Shirt",
+        "image": "img/Products/1card.jpeg",
+        "alt_image": [
+            "img/Products/Alt/avva1.jpeg",
+            "img/Products/Alt/avva2.jpeg",
+            "img/Products/Alt/avva3.jpeg",
+            "img/Products/Alt/avva4.jpeg"
+        ]
+    },
+    {   
+        "id": 2,
+        "brand": "Quzu",
+        "price": 32,
+        "discount": 56,
+        "brand_name": "Gömlek",
+        "description": "Gömlek Yaka Crop Kazak",
+        "image": "img/Products/Alt/quzu1.jpg",
+        "alt_image": [
+            "img/Products/Alt/quzu1.jpg",
+            "img/Products/Alt/quzu2.jpg",
+            "img/Products/Alt/quzu3.jpg",
+            "img/Products/Alt/quzu4.jpg",
+            "img/Products/Alt/quzu5.jpg"
+        ]
+
+    },
+    {   
+        "id": 3,
+        "brand": "Ferruci",
+        "price": 68,
+        "discount": 141,
+        "brand_name": "Kol Saati",
+        "description": "Hasır Mat Siyah Erkek Kol Saati",
+        "image": "img/Products/card12.jpeg",
+        "alt_image": [
+            "img/Products/card12.jpeg",
+            "img/Products/Alt/ferruci1.jpg",
+            "img/Products/Alt/ferruci2.jpeg",
+            "img/Products/Alt/ferruci3.jpeg"
+        ]
+
+    },
+    {
+        "id": 4,
+        "brand": "By Harmony",
+        "price": 12,
+        "discount": 25,
+        "brand_name": "Günəş Gözlüyü",
+        "description": "Unisex Siyah Günəş Gözlüğü",
+        "image": "img/Products/card5.jpeg",
+        "alt_image": [
+            "img/Products/Alt/harmony1.jpg",
+            "img/Products/Alt/harmony2.jpg",
+            "img/Products/Alt/harmony3.jpg",
+            "img/Products/Alt/harmony4.jpg"
+        ]
+
+    },
+    {
+        "id": 5,
+        "brand": "Defacto",
+        "price": 18,
+        "discount": 27,
+        "brand_name": "Kids Clothes",
+        "description": "Erkek Bebek Salopet Takım",
+        "image": "img/Products/card4.jpeg",
+        "alt_image": [
+            "img/Products/Alt/avva1.jpeg",
+            "img/Products/Alt/avva2.jpeg",
+            "img/Products/Alt/avva3.jpeg",
+            "img/Products/Alt/avva4.jpeg"
+        ]
+
+    },
+    {
+        "id": 6,
+        "brand": "Cool & Sexy",
+        "price": 14,
+        "discount": 19,
+        "brand_name": "Women Clothes",
+        "description": "Kadın Siyah Saten Gömlek",
+        "image": "img/Products/card6.jpeg",
+        "alt_image": [
+            "img/Products/Alt/avva1.jpeg",
+            "img/Products/Alt/avva2.jpeg",
+            "img/Products/Alt/avva3.jpeg",
+            "img/Products/Alt/avva4.jpeg"
+        ]
+
+    },
+    {
+        "id": 7,
+        "brand": "Kiğılı",
+        "price": 22,
+        "discount": 28,
+        "brand_name": "Men Clothes",
+        "description": "Slim Fit Yünlü Desenli Triko Kazak",
+        "image": "img/Products/card9.jpeg",
+        "alt_image": [
+            "img/Products/Alt/kigili1.jpg",
+            "img/Products/Alt/kigili2.jpg",
+            "img/Products/Alt/kigili3.jpg"
+        ]
+
+    },
+    {
+        "id": 8,
+        "brand": "Cool & Sexy",
+        "price": 18,
+        "discount": 27,
+        "brand_name": "Kids Clothes",
+        "description": "Kadin Tulumu",
+        "image": "img/Products/card8.jpeg",
+        "alt_image": [
+            "img/Products/Alt/avva1.jpeg",
+            "img/Products/Alt/avva2.jpeg",
+            "img/Products/Alt/avva3.jpeg",
+            "img/Products/Alt/avva4.jpeg"
+        ]
+
+    },
+    {
+        "id": 9,
+        "brand": "TrendMilla",
+        "price": 13,
+        "discount": 27,
+        "brand_name": "Women Clothes",
+        "description": "Balen Detaylı Elbise",
+        "image": "img/Products/card10.jpeg",
+        "alt_image": [
+            "img/Products/Alt/avva1.jpeg",
+            "img/Products/Alt/avva2.jpeg",
+            "img/Products/Alt/avva3.jpeg",
+            "img/Products/Alt/avva4.jpeg"
+        ]
+
+    }
+    
+]

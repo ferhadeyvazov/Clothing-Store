@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="public/CSS/home.css">
+    <link rel="stylesheet" href="public/CSS/product.css">
+    <title>Products</title>
+</head>
+
+<body>
+    <!-- =================HEADER&LOGO================= -->
+    <header class="header"></header>
+
+
+    <!-- =================PRODUCT DETAILS================= -->
+    <section class="section">
+        <div class="container product-details">
+            <div class="image-slider">
+                <div class="product-images">
+                    <!-- <img src="img/product image 1.png" class="active" alt="">
+                    <img src="img/product image 2.png" alt="">
+                    <img src="img/product image 3.png" alt="">
+                    <img src="img/product image 4.png" alt=""> -->
+                </div>
+            </div>
+
+            <div class="details">
+                <h2 class="product-brand"></h2>
+                <p class="product-short-des"></p>
+                <span class="product-price"></span>
+                <span class="product-actual-price"></span>
+                <span class="product-discount"></span>
+
+                <p class="sub-heading">select size</p>
+
+                <label class="size-radio-btn check">
+                    xs
+                    <input type="radio" name="size" 
+                    value="xs" hidden id="xs-size" checked>
+                </label>
+                <label class="size-radio-btn">
+                    s
+                    <input type="radio" name="size" 
+                    value="s" hidden id="s-size">
+                </label>
+                <label class="size-radio-btn">
+                    m
+                    <input type="radio" name="size" 
+                    value="m" hidden id="m-size">
+                </label>
+                <label class="size-radio-btn">
+                    l
+                    <input type="radio" name="size" 
+                    value="l" hidden id="l-size">
+                </label>
+                <label class="size-radio-btn">
+                    xl
+                    <input type="radio" name="size" 
+                    value="xl" hidden id="xl-size">
+                </label>
+                <label class="size-radio-btn">
+                    xxl
+                    <input type="radio" name="size" 
+                    value="xxl" hidden id="xxl-size">
+                </label>
+
+                <div class="btns">
+                    <button onclick="sendtoBasket(event)" class="btn cart-btn">add to cart</button>
+                    <button class="btn">add to whishlist</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="details-des">
+        <div class="container">
+            <h2 class="heading">description</h2>
+            <p class="des">
+                <ol class="desc-list">
+                    <li>15 gün içinde ücretsiz iade.</li>
+                    <li>Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.</li>
+                    <li>İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.</li>
+                    <li>Bu ürün indirim kampanyasına dahil değildir.</li>
+                    <li>Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları
+                    ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava
+                    olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine
+                    göre sıralanmaktadır.</li>
+                </ol>
+            </p>
+        </div>
+    </section>
+
+
+    <!-- =================SECTION BESTSELLER================= -->
+    <section class="section">
+        <div class="container">
+            <h1 class="product-category">best selling</h1>
+    
+            <div class="product-container">
+                <!-- <div class="product-card">
+                        <span class="discount-tag">50% off</span>
+                        <img src="img/card1.png" 
+                        alt="card1" class="product-img">
+                        <div class="card-texts">
+                            <h1>brand</h1>
+                            <p>A short line about the dress..</p>
+                            <h2>$20  <span> $40</span></h2>
+                        </div>
+                    </div> -->
+            </div>
+        </div>
+    </section>
+
+
+    <!-- =================FOOTER================= -->
+    <footer class="footer bg-grey" id="footer"></footer>
+
+<script src="public/JS/headerNav.js"></script>
+<script src="public/JS/footer.js"></script>
+<script src="public/JS/products.js"></script>
+<script src="public/JS/app.js"></script>
+</body>
+
+</html>
